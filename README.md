@@ -1,2 +1,1 @@
-# git-w3schools.
-hello this is my git pratical, i hope i do understand
+this is learning about git and github. im not so good at it yet but id get better by the day
